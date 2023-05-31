@@ -37,7 +37,7 @@ git config --list
 ssh-keygen -t rsa -C "email@example.com"
 ```
 
-按三次回车键即可生成 ssh key
+> 按三次回车键即可生成 ssh key
 
 (2)找到id_rsa.pub这个文件，用文本编辑器（如记事本）打开，复制里面的所有内容。
 
@@ -55,7 +55,7 @@ ssh-keygen -t rsa -C "email@example.com"
 ssh -T git@github.com
 ```
 
-出现`Hi your name! You've successfully authenticated, but GitHub does not provide shell access.`即为成功。
+> 出现`Hi your name! You've successfully authenticated, but GitHub does not provide shell access.`即为成功。
 
 ## 3. 将本地仓库推送到GitHub
 
