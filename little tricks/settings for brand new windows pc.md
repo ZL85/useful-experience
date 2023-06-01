@@ -1,4 +1,22 @@
-# 新windows电脑必备软件
+# settings for brand new windows pc
+
+## 1. modify the default settings
+
+### 1.1 桌面显示此电脑和控制面板
+
+桌面右键选择个性化->主题->桌面图标设置->勾选你要显示的图标即可。
+![image-20230601115847073](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//image-20230601115847073.png)
+
+### 1.2 更改桌面文件夹的位置
+
+先在D盘下面新建一个Desktop文件夹。
+![image-20230601114122852](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//image-20230601114122852.png)
+右键点击桌面图标选择属性->位置->移动->选择D盘下新建的Desktop文件夹->点击应用即可。
+
+![image-20230601114530117](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//image-20230601114530117.png)
+![image-20230601114630697](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//image-20230601114630697.png)
+
+## 2. install apps
 
 1. windows自带edge浏览器
 2. [火绒安全](https://www.huorong.cn/)
@@ -23,3 +41,5 @@
 21. [欧路词典](https://www.eudic.net/v4/en/app/download)
 22. [Chrome](https://www.google.com/intl/zh/chrome/?brand=YTUH&gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6d81nz70ITwOBCFiCa3-FZUuBzT7UR9fA6w0okJB2T2fnzC_lJdMiwaAjkQEALw_wcB&gclsrc=aw.ds)
 23. [ant](https://jsq2.laihuluwa.com/)
+
+软件（不能自定义安装位置除外）建议全部安装在D盘，C盘只用来装系统，防止卡顿。
