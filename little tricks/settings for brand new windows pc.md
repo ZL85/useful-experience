@@ -5,20 +5,24 @@
 ### 1.1 桌面显示此电脑和控制面板
 
 桌面右键选择个性化->主题->桌面图标设置->勾选你要显示的图标即可。
+
 ![image-20230601115847073](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//image-20230601115847073.png)
 
 ### 1.2 更改桌面文件夹的位置
 
 先在D盘下面新建一个Desktop文件夹。
+
 ![image-20230601114122852](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//image-20230601114122852.png)
 右键点击桌面图标选择属性->位置->移动->选择D盘下新建的Desktop文件夹->点击应用即可。
 
 ![image-20230601114530117](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//image-20230601114530117.png)
+
 ![image-20230601114630697](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//image-20230601114630697.png)
 
 ## 2. install apps
 
 1. windows自带edge浏览器
+1. Microsoft Store: TranslucentTB
 2. [火绒安全](https://www.huorong.cn/)
 3. [Bandizip](https://www.bandisoft.com/bandizip/)
 4. [Everything](https://www.voidtools.com/zh-cn/downloads/)
