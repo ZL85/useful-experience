@@ -30,6 +30,8 @@
 6. [QQ](https://im.qq.com/pcqq)
 7. [微信](https://pc.weixin.qq.com/)
 8. [Office](https://pan.baidu.com/s/14OXFH-AXlcT5dP_92POQaw?pwd=sq3c)
+8. [腾讯会议](https://meeting.tencent.com/download?mfrom=OfficialIndex_TopBanner1_Download)
+8. [calibre](https://www.calibre-ebook.com/zh_CN/download)
 9. [百度网盘](https://pan.baidu.com/download#win)
 10. [网易邮箱大师](https://dashi.163.com/?from=mail340&dltype=site&spm=pos.free_webmail_9c89159b6fde1dc2.loginPage.login163Page.header.nav&uid=&scene=appTrack&session_id=BC18F6C7-5964-48AD-90E4-4DB3682E4EC0&fromDlpro=1)
 11. [网易云音乐](https://music.163.com/#/download)
