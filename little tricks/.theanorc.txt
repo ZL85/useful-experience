@@ -1,0 +1,16 @@
+[global]
+device = cuda
+floatX=float32
+
+[nvcc]
+flags=--machine=64
+
+[cuda]
+root = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1
+
+[dnn]
+library_path = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\lib\x64
+include_path = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\include
+
+[lib]
+cnmem=100
